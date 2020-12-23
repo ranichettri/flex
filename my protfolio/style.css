@@ -1,0 +1,28 @@
+ h2{
+     color:brown
+ }
+ 
+ *{
+            border:solid;
+        }
+
+   .header{
+            background-color: rgb(227, 255, 127);     
+            display: flex;
+            justify-content: space-evenly;
+  }     
+
+  .game{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+  }
+
+  .footer{
+      display: flex;
+      justify-content: flex-end;
+  }
+
+  h3,p{
+      text-align: center;
+  }
